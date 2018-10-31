@@ -1,5 +1,5 @@
 FROM java:8
-EXPOSE 4006
+EXPOSE 4008
 
 VOLUME /tmp
 ADD SignSystem-0.0.2-SNAPSHOT.jar /app.jar
